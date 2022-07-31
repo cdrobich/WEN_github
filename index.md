@@ -18,6 +18,8 @@ Resources from the Workshops:
 
 ![Workshop Infographic](https://github.com/cdrobich/WEN_github/blob/main/Resources/github_infographic.png)
 
+<img src="Resources/github_infographic.png" alt="hi" class="inline"/>
+
 
 ---------- 
 

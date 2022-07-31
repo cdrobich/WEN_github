@@ -14,11 +14,9 @@ We have run this for users at the University of Waterloo and Carleton University
 
 Resources from the Workshops: 
 
-[Workshop Slides](https://github.com/cdrobich/WEN_github/blob/main/Resources/Project-based%20workflows%20with%20GitHub.pdf)
 
-![Workshop Infographic](https://github.com/cdrobich/WEN_github/blob/main/Resources/github_infographic.png)
 
-<img src="Resources/github_infographic.png" alt="hi" class="inline"/>
+![(/WEN_github/docs/assets/github_infographic.png)](https://github.com/cdrobich/WEN_github/blob/gh-pages/docs/assets/github_infographic.png)
 
 
 ---------- 

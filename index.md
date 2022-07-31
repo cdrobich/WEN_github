@@ -15,7 +15,8 @@ We have run this for users at the University of Waterloo and Carleton University
 Resources from the Workshops: 
 
 * [Workshop Slides](https://github.com/cdrobich/WEN_github/blob/main/Resources/Project-based%20workflows%20with%20GitHub.pdf)
-* [Workflow Infographic](https://github.com/cdrobich/WEN_github/blob/main/Resources/github_infographic.png)
+
+![infographic](/assets/github_infographic.png)
 
 
 ---------- 
